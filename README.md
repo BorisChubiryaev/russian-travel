@@ -19,4 +19,4 @@
 
 # Ссылка на сайт:
 
-https://github.com/BorisChubiryaev/russian-travel.git  ---произошел сбой при публикации на гитхаб. ссылка будет доступна позднее---
+https://borischubiryaev.github.io/russian-travel/index.html
