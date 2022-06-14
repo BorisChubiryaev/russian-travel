@@ -1,0 +1,17 @@
+.places {
+  max-width: 984px;
+  margin: 0 auto;
+  padding-bottom: 12px;
+}
+
+@media screen and (max-width: 984px) {
+  .places {
+    padding-bottom: 17px;
+  }
+}
+
+@media screen and (max-width: 630px) {
+  .places {
+    padding-bottom: 16px;
+  }
+}

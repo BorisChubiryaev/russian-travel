@@ -1,0 +1,16 @@
+.footer__menu {
+  list-style-type: none;
+  padding-left: 0;
+  display: flex;
+}
+
+@media screen and (max-width: 710px) {
+  .footer__menu {
+    display: grid;
+    grid-template-columns: min-content;
+    grid-template-rows: repeat(5, min-content);
+    gap: 32px;
+    justify-content: start;
+    align-items: flex-start;
+  }
+}
