@@ -2,6 +2,8 @@
   list-style-type: none;
   padding-left: 0;
   display: flex;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 @media screen and (max-width: 710px) {
@@ -12,5 +14,6 @@
     gap: 32px;
     justify-content: start;
     align-items: flex-start;
+    padding-bottom: 32px;
   }
 }
